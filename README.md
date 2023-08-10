@@ -26,3 +26,8 @@ Please go to the [Releases section of the repository](https://github.com/easyche
 
 ![](images/20230810113831.png)
 
+# Compatibility Notes
+
+1. Currently, only the `/v1/chat/completions` endpoint and the `messages` parameter are supported. The model used is `claude-2`.
+2. Continuous conversation is supported, and the `messages` parameter will be automatically concatenated.
+
