@@ -13,7 +13,7 @@ AiAPI是个跨平台客户端，它可以将 Claude 网站转化为 OpenAI 兼�
 
 # 下载
 
-请移步仓库的 Release 
+请移步[仓库的 Release](https://github.com/easychen/aiapi/releases) 
 
 # 界面和功能
 

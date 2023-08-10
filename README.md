@@ -16,7 +16,7 @@ AiAPI is a cross-platform client that converts the Claude website into an OpenAI
 
 # Download
 
-Please go to the Releases section of the repository.
+Please go to the [Releases section of the repository](https://github.com/easychen/aiapi/releases).
 
 # Interface and Functionality
 
