@@ -36,11 +36,11 @@ Please go to the [Releases section of the repository](https://github.com/easyche
 ![](images/20230811123049.png)
 1. Change the OpenAI API Endpoint to http://127.0.0.1:3456 (if there is a /v1/... at the end, include it as well).
 1. You can enter any API Key, but some clients may have format validation. You can use this key: `sk-1234567890ULScvLPEHbT3B3bkFJ34mOSRJSVf9fMWP8UXyw`.
-1. This interface currently only supports stream mode, so please enable the "Stream Output" option.
+1. ~~This interface currently only supports stream mode, so please enable the "Stream Output" option.~~ added in version 1.0.2
 
 
 # Compatibility Notes
 
-1. Currently, only the `/v1/chat/completions` endpoint and the `messages` parameter are supported. The model used is `claude-2`. `Stream` mode only.
+1. Currently, only the `/v1/chat/completions` endpoint and the `messages` parameter are supported. The model used is `claude-2`.
 2. Continuous conversation is supported, and the `messages` parameter will be automatically concatenated.
 
