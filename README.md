@@ -26,6 +26,15 @@ Please go to the [Releases section of the repository](https://github.com/easyche
 
 ![](images/20230810113831.png)
 
+# User Guide
+
+1. Register and log in to your account at <https://claude.ai>.
+2. Go to the <https://claude.ai/chats> page, open DevTools by pressing F12, navigate to Applications, then Cookies, and copy the sessionKey.
+![](images/20230811122810.png)
+3. Paste the sessionKey into the Settings panel and save.
+![](images/20230811123049.png)
+4. Change the OpenAI API Endpoint to http://127.0.0.1:3456 (if there is a /v1/... at the end, include that as well).
+
 # Compatibility Notes
 
 1. Currently, only the `/v1/chat/completions` endpoint and the `messages` parameter are supported. The model used is `claude-2`. `Stream` mode only.
