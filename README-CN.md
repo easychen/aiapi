@@ -32,9 +32,9 @@ AiAPI是个跨平台客户端，它可以将 Claude 网站转化为 OpenAI 兼�
 ![](images/20230811123049.png)
 1. 将原来填写OpenAI API Endpoint 的地方改为 http://127.0.0.1:3456 即可（如果原来后边有/v1/...，那么把这部分也加上）
 1. API Key可以随意填写，但部分客户端可能对格式有校验，因此你也可以使用这个 `sk-1234567890ULScvLPEHbT3B3bkFJ34mOSRJSVf9fMWP8UXyw`
-1. 本接口目前只支持 stream 模式，因此请打开`流式输出`选项
+1. ~~本接口目前只支持 stream 模式，因此请打开`流式输出`选项~~ 已在 1.0.2 版本支持
 
 # 兼容性说明
 
-1. 目前仅兼容 `/v1/chat/completions` 接口、`messages` 参数。模型直接使用 `claude-2`，只支持 `stream` 模式 。
+1. 目前仅兼容 `/v1/chat/completions` 接口、`messages` 参数。模型直接使用 `claude-2`。
 1. 支持连续对话，`messages` 参数会自动拼接。
