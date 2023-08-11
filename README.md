@@ -26,14 +26,18 @@ Please go to the [Releases section of the repository](https://github.com/easyche
 
 ![](images/20230810113831.png)
 
+
 # User Guide
 
 1. Register and log in to your account at <https://claude.ai>.
-2. Go to the <https://claude.ai/chats> page, open DevTools by pressing F12, navigate to Applications, then Cookies, and copy the sessionKey.
+1. Go to the page <https://claude.ai/chats>, open DevTools by pressing F12, and navigate to Applications → Cookies. Copy the sessionKey.
 ![](images/20230811122810.png)
-3. Paste the sessionKey into the Settings panel and save.
+1. Paste the sessionKey into the Settings panel and save.
 ![](images/20230811123049.png)
-4. Change the OpenAI API Endpoint to http://127.0.0.1:3456 (if there is a /v1/... at the end, include that as well).
+1. Change the OpenAI API Endpoint to http://127.0.0.1:3456 (if there is a /v1/... at the end, include it as well).
+1. You can enter any API Key, but some clients may have format validation. You can use this key: `sk-1234567890ULScvLPEHbT3B3bkFJ34mOSRJSVf9fMWP8UXyw`.
+1. This interface currently only supports stream mode, so please enable the "Stream Output" option.
+
 
 # Compatibility Notes
 
