@@ -46,4 +46,16 @@ Please go to the [Releases section of the repository](https://github.com/easyche
 
 # Project used AiAPI
 
-1. [book-by-ai](https://github.com/easychen/book-by-ai) : Generate high-quality books with AI 
+1. [book-by-ai](https://github.com/easychen/book-by-ai) : Generate high-quality books with AI
+
+# Disclaimer for Software Usage
+
+1. This software is provided to users for self-installation and use, and the developer does not provide any form of technical support.
+2. Users assume all risks and responsibilities when using this software, including but not limited to improper use, data loss, system crashes, etc.
+3. The developer does not make any express or implied warranties regarding the applicability, accuracy, reliability, completeness, and timeliness of this software.
+4. Users should understand and comply with relevant laws, regulations, and website user agreements when using this software. The developer shall not be liable for any legal disputes or losses caused by the user's violation of relevant provisions.
+5. This software may be subject to anti-crawling mechanisms of target websites. Users should bear the risks of account suspension, IP blocking, and other consequences that may arise from using this software.
+6. The developer shall not be liable for any direct, indirect, special, incidental, or consequential losses or damages that may result from the user's use of this software, including but not limited to loss of profits, data loss, business interruption, etc.
+7. Users are solely responsible for any liabilities arising from their use of this software, including but not limited to infringement of third-party rights, illegal activities, etc.
+8. The developer reserves the right to modify, suspend, or terminate this software at any time without prior notice, and shall not be liable for any consequences arising from it.
+9. By using this software, users agree to comply with all provisions of this disclaimer. If you do not agree with any part of this disclaimer, please stop using this software immediately.
