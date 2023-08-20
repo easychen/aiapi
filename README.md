@@ -1,5 +1,6 @@
 # AiAPI
 
+> ⚠️ 最近Claude给网页添加了防护，本应用暂时不可用了。| Recently, Claude added protection to the webpage, so this application is temporarily unavailable.
 
 > This is the download and support page for the software
 
